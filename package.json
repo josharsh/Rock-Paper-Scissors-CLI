@@ -1,5 +1,5 @@
 {
-  "name": "rock-paper-scissors-cli",
+  "name": "@josharsh/rock-paper-scissors-cli",
   "version": "1.0.0",
   "description": "Play rock paper scissors on CLI",
   "main": "index.js",
