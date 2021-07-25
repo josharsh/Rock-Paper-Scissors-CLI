@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/josharsh/Rock-Paper-Scissors-CLI.git"
   },
+  "bin":{
+    "rockpaperscissors": "./index.js"
+  },
   "author": "josharsh",
   "license": "ISC",
   "bugs": {
